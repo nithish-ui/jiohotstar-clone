@@ -11,8 +11,52 @@
 [![TMDB](https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)](https://www.themoviedb.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-**[Live Demo](https://jiohotstar-clone.vercel.app) · [Report Bug](https://github.com/yourusername/jiohotstar-clone/issues) · [Request Feature](https://github.com/yourusername/jiohotstar-clone/issues)**
+**[Live Demo](https://jiohotstar-clone-chi.vercel.app) · [Report Bug](https://github.com/yourusername/jiohotstar-clone/issues) · [Request Feature](https://github.com/yourusername/jiohotstar-clone/issues)**
 
+</div>
+
+---
+
+## Screenshots
+
+<div align="center">
+  <img src="screenshots/home.png" width="100%" alt="Home Page — Hero Banner + Content Carousels"/>
+  <br><em>Home page — auto-rotating hero banner with trending content and 7 carousels</em>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="screenshots/movies.png" width="100%" alt="Movies Page — Tab Filter + Genre Discovery"/>
+  <br><em>Movies page — Popular, Top Rated, Upcoming tabs with genre chip filters</em>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="screenshots/tv-shows.png" width="100%" alt="TV Shows Page"/>
+  <br><em>TV Shows page — On Air, Airing Today, Popular, Top Rated categories</em>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="screenshots/detail.png" width="100%" alt="Movie Detail Page — Full info, cast, trailer"/>
+  <br><em>Detail page — backdrop hero, metadata, cast row, YouTube trailer embed, similar titles</em>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="screenshots/search.png" width="100%" alt="Search Page — Live results across Movies + TV"/>
+  <br><em>Search page — debounced real-time search across movies + TV shows with filter tabs</em>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="screenshots/login.png" width="100%" alt="Login Page — Mock Auth UI"/>
+  <br><em>Login page — mock auth with Google / Facebook social login UI</em>
 </div>
 
 ---
@@ -220,7 +264,7 @@ This project is for **educational and portfolio purposes only**. It is not affil
 ---
 
 <div align="center">
-Built with React.js · Data by TMDB · Deployed on Vercel
+Built with React.js · Data by TMDB · Deployed on Vercel · [Live Demo](https://jiohotstar-clone-chi.vercel.app)
 
 If this helped you, please ⭐ star the repo — it helps others find it!
 </div>
